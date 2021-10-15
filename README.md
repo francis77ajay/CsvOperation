@@ -1,4 +1,4 @@
 # AI BOT
 
 
-This is a bot to autologin to Facebook after taking credential inputs from user
+This is a bot to Filter a CSV file using values above 1000
